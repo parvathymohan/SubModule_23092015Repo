@@ -13,6 +13,7 @@ namespace WebApplication_GetDate
             string currDate = string.Empty;
             currDate = DateTime.Now.ToString();
             return currDate;
+
         }
 
     }
